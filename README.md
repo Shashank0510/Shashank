@@ -21,6 +21,7 @@ My Projects:
 - Car Rental Management System
 - Credit Card Faud Detection 
 - Fake News Detection
+- Loan Prediction
 - Stroke Detection
 - Grad Admission Acceptance Prediction
 
