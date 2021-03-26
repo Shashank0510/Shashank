@@ -8,10 +8,12 @@ LinkedIn : www.linkedin.com/in/shashank-m-kadiwal <br>
 
 
 <hr>
+
 - Programming Skills : C, C++, Python, Java <br>
 - Databases: MySQL,Oracle <br>
 - Environments : Windows, Linux <br>
 - Tools :Git
+
 <hr> 
 My Projects: 
 
