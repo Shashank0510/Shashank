@@ -12,9 +12,7 @@ LinkedIn : www.linkedin.com/in/shashank-m-kadiwal <br>
 - Databases: MySQL,Oracle <br>
 - Environments : Windows, Linux <br>
 - Tools :Git
-<br>
 
-<br>
 My Projects: 
 
 - Sudoku Solver using Backtracking Algorithm
