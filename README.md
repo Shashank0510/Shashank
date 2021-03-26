@@ -4,7 +4,27 @@
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects.
 - 📫 How to reach me on: <br>
 Email : shashankkadiwal2000@gmail.com <br>
-LinkedIn : www.linkedin.com/in/shashank-m-kadiwal
+LinkedIn : www.linkedin.com/in/shashank-m-kadiwal <br>
+
+
+
+- Programming Skills : C, C++, Python, Java <br>
+- Databases: MySQL,Oracle <br>
+- Environments : Windows, Linux <br>
+- Tools :Git
+<br>
+
+<br>
+My Projects: 
+
+- Sudoku Solver using Backtracking Algorithm
+- News Aggregator using Web Scrapping Techniques
+- Fee Report Management System
+- Car Rental Management System
+- Credit Card Faud Detection 
+- Fake News Detection
+- Stroke Detection
+- Grad Admission Acceptance Prediction
 
 <!---
 Shashank0510/Shashank0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
