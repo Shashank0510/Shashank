@@ -4,16 +4,14 @@
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects.
 - 📫 How to reach me on: <br>
 Email : shashankkadiwal2000@gmail.com <br>
-LinkedIn : www.linkedin.com/in/shashank-m-kadiwal <br>
-
-
+LinkedIn : www.linkedin.com/in/shashank-m-kadiwal 
 <hr>
 Skillset:
+
 - Programming Skills : C, C++, Python, Java <br>
 - Databases: MySQL,Oracle <br>
 - Environments : Windows, Linux <br>
 - Tools :Git
-
 <hr> 
 My Projects: 
 
