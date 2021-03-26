@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashank
+- 👋 Hi, I’m Shashank M Kadiwal
 - 👀 I am passionate about Data Science and  Machine Learning .
 - 🌱I am currently pursuing Computer Science Engineering from Dr.Ambedkar Instiute of Technology,Bangalore. 
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects.
