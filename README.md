@@ -7,7 +7,7 @@ Email : shashankkadiwal2000@gmail.com <br>
 LinkedIn : www.linkedin.com/in/shashank-m-kadiwal <br>
 
 
-
+<hr>
 - Programming Skills : C, C++, Python, Java <br>
 - Databases: MySQL,Oracle <br>
 - Environments : Windows, Linux <br>
