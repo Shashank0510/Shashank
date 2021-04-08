@@ -5,7 +5,7 @@
 - 📫 How to reach me on: <br>
 <ul>
 <ul>
- <li>Email : shashankkadiwal2000@gmail.com</li>
+ <li>Email : <a href="mailto:shashankkadiwal2000@gmail.com">shashankkadiwal2000@gmail.com</a></li>
  <li>LinkedIn : www.linkedin.com/in/shashank-m-kadiwal</li>
  </ul>
  </ul>
