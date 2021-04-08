@@ -3,8 +3,12 @@
 - 🌱I am currently pursuing Computer Science Engineering from Dr.Ambedkar Instiute of Technology,Bangalore. 
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects.
 - 📫 How to reach me on: <br>
- Email : shashankkadiwal2000@gmail.com 
- LinkedIn : www.linkedin.com/in/shashank-m-kadiwal 
+<ul>
+<ul>
+ <li>Email : shashankkadiwal2000@gmail.com</li>
+ <li>LinkedIn : www.linkedin.com/in/shashank-m-kadiwal</li>
+ </ul>
+ </ul>
 <hr>
 Skillset:
 
