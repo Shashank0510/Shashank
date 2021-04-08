@@ -19,11 +19,22 @@ My Projects:
 - News Aggregator using Web Scrapping Techniques
 - Fee Report Management System
 - Car Rental Management System
-- Credit Card Faud Detection 
-- Fake News Detection
-- Loan Prediction
-- Stroke Detection
-- Grad Admission Acceptance Prediction
+- Beginner Projects - Machine Learning:<br>
+<ol>
+<ol>
+ <li>Credit Card Fraud Detection</li>
+ <li>Fake News Detection</li>
+ <li>Loan Prediction</li>
+ <li>Stroke Detection</li>
+ <li> Grad Admission Acceptance Prediction</li>
+</ol>
+</ol>
+  
+
+
+  
+
+
 
 <!---
 Shashank0510/Shashank0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
