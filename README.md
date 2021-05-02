@@ -23,16 +23,7 @@ My Projects:
 - News Aggregator using Web Scrapping Techniques
 - Fee Report Management System
 - Car Rental Management System
-- Beginner Projects - Machine Learning:<br>
-<ul>
-<ul>
- <li>Credit Card Fraud Detection</li>
- <li>Fake News Detection</li>
- <li>Loan Prediction</li>
- <li>Stroke Detection</li>
- <li> Grad Admission Acceptance Prediction</li>
-</ul>
-</ul>
+- Car Price Prediction using Random Forest 
   
 
 
