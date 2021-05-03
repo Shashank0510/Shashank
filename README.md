@@ -24,6 +24,7 @@ My Projects:
 - Fee Report Management System
 - Car Rental Management System
 - Car Price Prediction using Random Forest 
+- Bank Loan Approval Prediction using K Nearest Neigbours
   
 
 
