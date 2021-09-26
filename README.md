@@ -2,10 +2,9 @@
 - 👀 I am passionate about Data Science and  Machine Learning .
 - 🌱I am currently pursuing Computer Science Engineering from Dr.Ambedkar Instiute of Technology,Bangalore. 
 - 💞️ I’m looking to collaborate on Data Science and Machine learning projects.
-- 📫 How to reach me on: <br>
+- 📫 You can reach me on : <br>
 <ul>
 <ul>
- <li>Email : <a href="mailto:shashankkadiwal2000@gmail.com">shashankkadiwal2000@gmail.com</a></li>
  <li>LinkedIn : www.linkedin.com/in/shashank-m-kadiwal</li>
 </ul>
 </ul>
